@@ -8,7 +8,6 @@ import exceptions.CLInputException;
 import exceptions.CLLogicException;
 import local.CouponlandSystem;
 import utilities.GeneralUtils;
-import java.sql.SQLException;
 import java.util.ArrayList;
 
 

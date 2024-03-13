@@ -2,7 +2,6 @@ package validation;
 
 import beans.Category;
 import exceptions.CLInputException;
-import exceptions.CLLogicException;
 import utilities.GeneralUtils;
 
 import java.time.LocalDate;

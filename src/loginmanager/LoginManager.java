@@ -4,9 +4,7 @@ import exceptions.CLInputException;
 import exceptions.CLLogicException;
 import facades.ClientFacade;
 import local.CouponlandSystem;
-import validation.InputValidation;
 
-import java.sql.SQLException;
 import java.util.HashSet;
 import java.util.Set;
 

@@ -6,7 +6,6 @@ import beans.Coupon;
 import beans.Customer;
 import db.QueryReturnType;
 import exceptions.CLInputException;
-import exceptions.CLLogicException;
 import local.CouponlandSystem;
 import java.sql.ResultSet;
 import java.sql.SQLException;

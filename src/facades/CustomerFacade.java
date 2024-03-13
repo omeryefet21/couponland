@@ -1,7 +1,6 @@
 package facades;
 
 import beans.Category;
-import beans.Company;
 import beans.Coupon;
 import beans.Customer;
 import db.CVCFilter;
@@ -11,7 +10,6 @@ import exceptions.CLLogicException;
 import local.CouponlandSystem;
 import utilities.GeneralUtils;
 
-import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class CustomerFacade extends ClientFacade {

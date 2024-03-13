@@ -7,7 +7,6 @@ import exceptions.CLLogicException;
 import local.CouponlandSystem;
 import loginmanager.ClientType;
 import loginmanager.LoginManager;
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Objects;
 
